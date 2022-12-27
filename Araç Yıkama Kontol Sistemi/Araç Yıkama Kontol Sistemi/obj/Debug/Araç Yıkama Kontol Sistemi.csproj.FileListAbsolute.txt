@@ -1,0 +1,18 @@
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\bin\Debug\Araç Yıkama Kontol Sistemi.exe
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\bin\Debug\Araç Yıkama Kontol Sistemi.pdb
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.AssemblyReference.cache
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç_Yıkama_Kontol_Sistemi.Form1.resources
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç_Yıkama_Kontol_Sistemi.Properties.Resources.resources
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.GenerateResource.cache
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.exe
+C:\Users\vedat\OneDrive\Masaüstü\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.pdb
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.AssemblyReference.cache
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç_Yıkama_Kontol_Sistemi.Form1.resources
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç_Yıkama_Kontol_Sistemi.Properties.Resources.resources
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.GenerateResource.cache
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.csproj.CoreCompileInputs.cache
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.exe
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\obj\Debug\Araç Yıkama Kontol Sistemi.pdb
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\bin\Debug\Araç Yıkama Kontol Sistemi.exe
+D:\Huawei Vedat\6 VS Projeler\Araç Yıkama Kontol Sistemi\Araç Yıkama Kontol Sistemi\bin\Debug\Araç Yıkama Kontol Sistemi.pdb
